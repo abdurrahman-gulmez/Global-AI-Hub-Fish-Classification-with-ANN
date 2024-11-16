@@ -5,10 +5,10 @@
 ## NECESSARY LİBRARIES
 - pandas (data manipulation, data preprocessing)
 - matplotlib (visualization)
-- seaborn (visualization)
+- seaborn (visualization additionaly to matplotlib)
 - sklearn (train-test split and success metrics)
 - tensorflow (image processing)
-- os (retrieving labels and paths from datasets into dataframe)
+- os (reading data from directoy and taking labels and paths of the images in the data)
   
 ## STAGES OF THE PROJECT
 1. Importing the necessary libraries
