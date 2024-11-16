@@ -22,4 +22,4 @@
 9. Analizing the results by using the metrics such as loss, accuracy, confusion_matrix and classification report
     
 ## ACCESSING THE PROJECT
-- Please [click]() to access the details and contents of the project
+- Please [click](https://www.kaggle.com/code/abdurrahmangulmez46/global-ai-hub-fish-classification-with-ann) to access the details and contents of the project
