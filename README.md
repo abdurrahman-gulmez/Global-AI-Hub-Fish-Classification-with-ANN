@@ -8,7 +8,7 @@
 - seaborn (visualization additionaly to matplotlib)
 - sklearn (train-test split and success metrics)
 - tensorflow (image processing)
-- os (reading data from directoy and taking labels and paths of the images in the data)
+- os (reading data from directory and taking labels and paths of the images in the data)
   
 ## STAGES OF THE PROJECT
 1. Importing the necessary libraries
